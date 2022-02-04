@@ -1,4 +1,4 @@
-# Teamcord
+# ChatApp
 
 Realtime chat app with rooms made using Node.js, Express, and socket.io
 
